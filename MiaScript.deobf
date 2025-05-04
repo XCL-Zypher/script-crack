@@ -1,0 +1,590 @@
+local genv = getgenv()
+local fenv = getfenv()
+
+fenv._MaMuoDzckBCn = "This file was protected with MoonSec V3"
+wait()
+fenv.MoonSec_StringsHiddenAttr = true
+local _5 = loadstring(game:HttpGet("https://raw.githubusercontent.com/iblameaabis/Ililililililililililililil/refs/heads/main/W%20UI", true))()
+local _call11 = _5:AddWindow("Mia's Private Script | CRACKED BY ZYPHER", {
+    min_size = Vector2.new(610, 520),
+    can_resize = false,
+    main_color = Color3.fromRGB(200, 0, 0),
+})
+local _call13 = _call11:AddTab("MainFarm")
+_call13:Show()
+_call13:AddSwitch("Fast Rebirth", function(_18, _18_2, _18_3)
+    fenv.fastRebirth = _18
+    spawn(function(_20, _20_2, _20_3)
+        local _call22 = game:GetService("ReplicatedStorage")
+        local _LocalPlayer25 = game:GetService("Players").LocalPlayer
+        local _ultimatesFolder31 = _LocalPlayer25.ultimatesFolder
+        _ultimatesFolder31:FindFirstChild("Golden Rebirth")
+        local _40, _40_2, _40_3 = math.floor(((10000 + (5000 * _LocalPlayer25.leaderstats.Rebirths.Value)) * (1 - (_LocalPlayer25.ultimatesFolder["Golden Rebirth"].Value * 0.1))))
+        local _petsFolder41 = _LocalPlayer25.petsFolder
+        for _44, _44_2 in _petsFolder41:GetChildren() do
+            _44_2:IsA("Folder")
+            for _49, _49_2 in _44_2:GetChildren() do
+                local _equipPetEvent51 = _call22.rEvents.equipPetEvent
+                _equipPetEvent51:FireServer("unequipPet", _49_2)
+            end
+        end
+        task.wait(0.1)
+        task.wait(0.1)
+        local _petsFolder54 = _LocalPlayer25.petsFolder
+        for _57, _57_2 in _petsFolder54:GetChildren() do
+            _57_2:IsA("Folder")
+            for _62, _62_2 in _57_2:GetChildren() do
+                local _equipPetEvent64 = _call22.rEvents.equipPetEvent
+                _equipPetEvent64:FireServer("unequipPet", _62_2)
+            end
+        end
+        task.wait(0.1)
+        task.wait(0.01)
+        local _Unique68 = _LocalPlayer25.petsFolder.Unique
+        for _71, _71_2 in _Unique68:GetChildren() do
+            local _ = _71_2.Name
+        end
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent77 = _LocalPlayer25.muscleEvent
+        _muscleEvent77:FireServer("rep")
+        local _muscleEvent80 = _LocalPlayer25.muscleEvent
+        _muscleEvent80:FireServer("rep")
+        local _muscleEvent83 = _LocalPlayer25.muscleEvent
+        _muscleEvent83:FireServer("rep")
+        local _muscleEvent86 = _LocalPlayer25.muscleEvent
+        _muscleEvent86:FireServer("rep")
+        local _muscleEvent89 = _LocalPlayer25.muscleEvent
+        _muscleEvent89:FireServer("rep")
+        local _muscleEvent92 = _LocalPlayer25.muscleEvent
+        _muscleEvent92:FireServer("rep")
+        local _muscleEvent95 = _LocalPlayer25.muscleEvent
+        _muscleEvent95:FireServer("rep")
+        local _muscleEvent98 = _LocalPlayer25.muscleEvent
+        _muscleEvent98:FireServer("rep")
+        local _muscleEvent101 = _LocalPlayer25.muscleEvent
+        _muscleEvent101:FireServer("rep")
+        local _muscleEvent104 = _LocalPlayer25.muscleEvent
+        _muscleEvent104:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent111 = _LocalPlayer25.muscleEvent
+        _muscleEvent111:FireServer("rep")
+        local _muscleEvent114 = _LocalPlayer25.muscleEvent
+        _muscleEvent114:FireServer("rep")
+        local _muscleEvent117 = _LocalPlayer25.muscleEvent
+        _muscleEvent117:FireServer("rep")
+        local _muscleEvent120 = _LocalPlayer25.muscleEvent
+        _muscleEvent120:FireServer("rep")
+        local _muscleEvent123 = _LocalPlayer25.muscleEvent
+        _muscleEvent123:FireServer("rep")
+        local _muscleEvent126 = _LocalPlayer25.muscleEvent
+        _muscleEvent126:FireServer("rep")
+        local _muscleEvent129 = _LocalPlayer25.muscleEvent
+        _muscleEvent129:FireServer("rep")
+        local _muscleEvent132 = _LocalPlayer25.muscleEvent
+        _muscleEvent132:FireServer("rep")
+        local _muscleEvent135 = _LocalPlayer25.muscleEvent
+        _muscleEvent135:FireServer("rep")
+        local _muscleEvent138 = _LocalPlayer25.muscleEvent
+        _muscleEvent138:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent145 = _LocalPlayer25.muscleEvent
+        _muscleEvent145:FireServer("rep")
+        local _muscleEvent148 = _LocalPlayer25.muscleEvent
+        _muscleEvent148:FireServer("rep")
+        local _muscleEvent151 = _LocalPlayer25.muscleEvent
+        _muscleEvent151:FireServer("rep")
+        local _muscleEvent154 = _LocalPlayer25.muscleEvent
+        _muscleEvent154:FireServer("rep")
+        local _muscleEvent157 = _LocalPlayer25.muscleEvent
+        _muscleEvent157:FireServer("rep")
+        local _muscleEvent160 = _LocalPlayer25.muscleEvent
+        _muscleEvent160:FireServer("rep")
+        local _muscleEvent163 = _LocalPlayer25.muscleEvent
+        _muscleEvent163:FireServer("rep")
+        local _muscleEvent166 = _LocalPlayer25.muscleEvent
+        _muscleEvent166:FireServer("rep")
+        local _muscleEvent169 = _LocalPlayer25.muscleEvent
+        _muscleEvent169:FireServer("rep")
+        local _muscleEvent172 = _LocalPlayer25.muscleEvent
+        _muscleEvent172:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent179 = _LocalPlayer25.muscleEvent
+        _muscleEvent179:FireServer("rep")
+        local _muscleEvent182 = _LocalPlayer25.muscleEvent
+        _muscleEvent182:FireServer("rep")
+        local _muscleEvent185 = _LocalPlayer25.muscleEvent
+        _muscleEvent185:FireServer("rep")
+        local _muscleEvent188 = _LocalPlayer25.muscleEvent
+        _muscleEvent188:FireServer("rep")
+        local _muscleEvent191 = _LocalPlayer25.muscleEvent
+        _muscleEvent191:FireServer("rep")
+        local _muscleEvent194 = _LocalPlayer25.muscleEvent
+        _muscleEvent194:FireServer("rep")
+        local _muscleEvent197 = _LocalPlayer25.muscleEvent
+        _muscleEvent197:FireServer("rep")
+        local _muscleEvent200 = _LocalPlayer25.muscleEvent
+        _muscleEvent200:FireServer("rep")
+        local _muscleEvent203 = _LocalPlayer25.muscleEvent
+        _muscleEvent203:FireServer("rep")
+        local _muscleEvent206 = _LocalPlayer25.muscleEvent
+        _muscleEvent206:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent213 = _LocalPlayer25.muscleEvent
+        _muscleEvent213:FireServer("rep")
+        local _muscleEvent216 = _LocalPlayer25.muscleEvent
+        _muscleEvent216:FireServer("rep")
+        local _muscleEvent219 = _LocalPlayer25.muscleEvent
+        _muscleEvent219:FireServer("rep")
+        local _muscleEvent222 = _LocalPlayer25.muscleEvent
+        _muscleEvent222:FireServer("rep")
+        local _muscleEvent225 = _LocalPlayer25.muscleEvent
+        _muscleEvent225:FireServer("rep")
+        local _muscleEvent228 = _LocalPlayer25.muscleEvent
+        _muscleEvent228:FireServer("rep")
+        local _muscleEvent231 = _LocalPlayer25.muscleEvent
+        _muscleEvent231:FireServer("rep")
+        local _muscleEvent234 = _LocalPlayer25.muscleEvent
+        _muscleEvent234:FireServer("rep")
+        local _muscleEvent237 = _LocalPlayer25.muscleEvent
+        _muscleEvent237:FireServer("rep")
+        local _muscleEvent240 = _LocalPlayer25.muscleEvent
+        _muscleEvent240:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent247 = _LocalPlayer25.muscleEvent
+        _muscleEvent247:FireServer("rep")
+        local _muscleEvent250 = _LocalPlayer25.muscleEvent
+        _muscleEvent250:FireServer("rep")
+        local _muscleEvent253 = _LocalPlayer25.muscleEvent
+        _muscleEvent253:FireServer("rep")
+        local _muscleEvent256 = _LocalPlayer25.muscleEvent
+        _muscleEvent256:FireServer("rep")
+        local _muscleEvent259 = _LocalPlayer25.muscleEvent
+        _muscleEvent259:FireServer("rep")
+        local _muscleEvent262 = _LocalPlayer25.muscleEvent
+        _muscleEvent262:FireServer("rep")
+        local _muscleEvent265 = _LocalPlayer25.muscleEvent
+        _muscleEvent265:FireServer("rep")
+        local _muscleEvent268 = _LocalPlayer25.muscleEvent
+        _muscleEvent268:FireServer("rep")
+        local _muscleEvent271 = _LocalPlayer25.muscleEvent
+        _muscleEvent271:FireServer("rep")
+        local _muscleEvent274 = _LocalPlayer25.muscleEvent
+        _muscleEvent274:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent281 = _LocalPlayer25.muscleEvent
+        _muscleEvent281:FireServer("rep")
+        local _muscleEvent284 = _LocalPlayer25.muscleEvent
+        _muscleEvent284:FireServer("rep")
+        local _muscleEvent287 = _LocalPlayer25.muscleEvent
+        _muscleEvent287:FireServer("rep")
+        local _muscleEvent290 = _LocalPlayer25.muscleEvent
+        _muscleEvent290:FireServer("rep")
+        local _muscleEvent293 = _LocalPlayer25.muscleEvent
+        _muscleEvent293:FireServer("rep")
+        local _muscleEvent296 = _LocalPlayer25.muscleEvent
+        _muscleEvent296:FireServer("rep")
+        local _muscleEvent299 = _LocalPlayer25.muscleEvent
+        _muscleEvent299:FireServer("rep")
+        local _muscleEvent302 = _LocalPlayer25.muscleEvent
+        _muscleEvent302:FireServer("rep")
+        local _muscleEvent305 = _LocalPlayer25.muscleEvent
+        _muscleEvent305:FireServer("rep")
+        local _muscleEvent308 = _LocalPlayer25.muscleEvent
+        _muscleEvent308:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent315 = _LocalPlayer25.muscleEvent
+        _muscleEvent315:FireServer("rep")
+        local _muscleEvent318 = _LocalPlayer25.muscleEvent
+        _muscleEvent318:FireServer("rep")
+        local _muscleEvent321 = _LocalPlayer25.muscleEvent
+        _muscleEvent321:FireServer("rep")
+        local _muscleEvent324 = _LocalPlayer25.muscleEvent
+        _muscleEvent324:FireServer("rep")
+        local _muscleEvent327 = _LocalPlayer25.muscleEvent
+        _muscleEvent327:FireServer("rep")
+        local _muscleEvent330 = _LocalPlayer25.muscleEvent
+        _muscleEvent330:FireServer("rep")
+        local _muscleEvent333 = _LocalPlayer25.muscleEvent
+        _muscleEvent333:FireServer("rep")
+        local _muscleEvent336 = _LocalPlayer25.muscleEvent
+        _muscleEvent336:FireServer("rep")
+        local _muscleEvent339 = _LocalPlayer25.muscleEvent
+        _muscleEvent339:FireServer("rep")
+        local _muscleEvent342 = _LocalPlayer25.muscleEvent
+        _muscleEvent342:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent349 = _LocalPlayer25.muscleEvent
+        _muscleEvent349:FireServer("rep")
+        local _muscleEvent352 = _LocalPlayer25.muscleEvent
+        _muscleEvent352:FireServer("rep")
+        local _muscleEvent355 = _LocalPlayer25.muscleEvent
+        _muscleEvent355:FireServer("rep")
+        local _muscleEvent358 = _LocalPlayer25.muscleEvent
+        _muscleEvent358:FireServer("rep")
+        local _muscleEvent361 = _LocalPlayer25.muscleEvent
+        _muscleEvent361:FireServer("rep")
+        local _muscleEvent364 = _LocalPlayer25.muscleEvent
+        _muscleEvent364:FireServer("rep")
+        local _muscleEvent367 = _LocalPlayer25.muscleEvent
+        _muscleEvent367:FireServer("rep")
+        local _muscleEvent370 = _LocalPlayer25.muscleEvent
+        _muscleEvent370:FireServer("rep")
+        local _muscleEvent373 = _LocalPlayer25.muscleEvent
+        _muscleEvent373:FireServer("rep")
+        local _muscleEvent376 = _LocalPlayer25.muscleEvent
+        _muscleEvent376:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent383 = _LocalPlayer25.muscleEvent
+        _muscleEvent383:FireServer("rep")
+        local _muscleEvent386 = _LocalPlayer25.muscleEvent
+        _muscleEvent386:FireServer("rep")
+        local _muscleEvent389 = _LocalPlayer25.muscleEvent
+        _muscleEvent389:FireServer("rep")
+        local _muscleEvent392 = _LocalPlayer25.muscleEvent
+        _muscleEvent392:FireServer("rep")
+        local _muscleEvent395 = _LocalPlayer25.muscleEvent
+        _muscleEvent395:FireServer("rep")
+        local _muscleEvent398 = _LocalPlayer25.muscleEvent
+        _muscleEvent398:FireServer("rep")
+        local _muscleEvent401 = _LocalPlayer25.muscleEvent
+        _muscleEvent401:FireServer("rep")
+        local _muscleEvent404 = _LocalPlayer25.muscleEvent
+        _muscleEvent404:FireServer("rep")
+        local _muscleEvent407 = _LocalPlayer25.muscleEvent
+        _muscleEvent407:FireServer("rep")
+        local _muscleEvent410 = _LocalPlayer25.muscleEvent
+        _muscleEvent410:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent417 = _LocalPlayer25.muscleEvent
+        _muscleEvent417:FireServer("rep")
+        local _muscleEvent420 = _LocalPlayer25.muscleEvent
+        _muscleEvent420:FireServer("rep")
+        local _muscleEvent423 = _LocalPlayer25.muscleEvent
+        _muscleEvent423:FireServer("rep")
+        local _muscleEvent426 = _LocalPlayer25.muscleEvent
+        _muscleEvent426:FireServer("rep")
+        local _muscleEvent429 = _LocalPlayer25.muscleEvent
+        _muscleEvent429:FireServer("rep")
+        local _muscleEvent432 = _LocalPlayer25.muscleEvent
+        _muscleEvent432:FireServer("rep")
+        local _muscleEvent435 = _LocalPlayer25.muscleEvent
+        _muscleEvent435:FireServer("rep")
+        local _muscleEvent438 = _LocalPlayer25.muscleEvent
+        _muscleEvent438:FireServer("rep")
+        local _muscleEvent441 = _LocalPlayer25.muscleEvent
+        _muscleEvent441:FireServer("rep")
+        local _muscleEvent444 = _LocalPlayer25.muscleEvent
+        _muscleEvent444:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent451 = _LocalPlayer25.muscleEvent
+        _muscleEvent451:FireServer("rep")
+        local _muscleEvent454 = _LocalPlayer25.muscleEvent
+        _muscleEvent454:FireServer("rep")
+        local _muscleEvent457 = _LocalPlayer25.muscleEvent
+        _muscleEvent457:FireServer("rep")
+        local _muscleEvent460 = _LocalPlayer25.muscleEvent
+        _muscleEvent460:FireServer("rep")
+        local _muscleEvent463 = _LocalPlayer25.muscleEvent
+        _muscleEvent463:FireServer("rep")
+        local _muscleEvent466 = _LocalPlayer25.muscleEvent
+        _muscleEvent466:FireServer("rep")
+        local _muscleEvent469 = _LocalPlayer25.muscleEvent
+        _muscleEvent469:FireServer("rep")
+        local _muscleEvent472 = _LocalPlayer25.muscleEvent
+        _muscleEvent472:FireServer("rep")
+        local _muscleEvent475 = _LocalPlayer25.muscleEvent
+        _muscleEvent475:FireServer("rep")
+        local _muscleEvent478 = _LocalPlayer25.muscleEvent
+        _muscleEvent478:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent485 = _LocalPlayer25.muscleEvent
+        _muscleEvent485:FireServer("rep")
+        local _muscleEvent488 = _LocalPlayer25.muscleEvent
+        _muscleEvent488:FireServer("rep")
+        local _muscleEvent491 = _LocalPlayer25.muscleEvent
+        _muscleEvent491:FireServer("rep")
+        local _muscleEvent494 = _LocalPlayer25.muscleEvent
+        _muscleEvent494:FireServer("rep")
+        local _muscleEvent497 = _LocalPlayer25.muscleEvent
+        _muscleEvent497:FireServer("rep")
+        local _muscleEvent500 = _LocalPlayer25.muscleEvent
+        _muscleEvent500:FireServer("rep")
+        local _muscleEvent503 = _LocalPlayer25.muscleEvent
+        _muscleEvent503:FireServer("rep")
+        local _muscleEvent506 = _LocalPlayer25.muscleEvent
+        _muscleEvent506:FireServer("rep")
+        local _muscleEvent509 = _LocalPlayer25.muscleEvent
+        _muscleEvent509:FireServer("rep")
+        local _muscleEvent512 = _LocalPlayer25.muscleEvent
+        _muscleEvent512:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent519 = _LocalPlayer25.muscleEvent
+        _muscleEvent519:FireServer("rep")
+        local _muscleEvent522 = _LocalPlayer25.muscleEvent
+        _muscleEvent522:FireServer("rep")
+        local _muscleEvent525 = _LocalPlayer25.muscleEvent
+        _muscleEvent525:FireServer("rep")
+        local _muscleEvent528 = _LocalPlayer25.muscleEvent
+        _muscleEvent528:FireServer("rep")
+        local _muscleEvent531 = _LocalPlayer25.muscleEvent
+        _muscleEvent531:FireServer("rep")
+        local _muscleEvent534 = _LocalPlayer25.muscleEvent
+        _muscleEvent534:FireServer("rep")
+        local _muscleEvent537 = _LocalPlayer25.muscleEvent
+        _muscleEvent537:FireServer("rep")
+        local _muscleEvent540 = _LocalPlayer25.muscleEvent
+        _muscleEvent540:FireServer("rep")
+        local _muscleEvent543 = _LocalPlayer25.muscleEvent
+        _muscleEvent543:FireServer("rep")
+        local _muscleEvent546 = _LocalPlayer25.muscleEvent
+        _muscleEvent546:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent553 = _LocalPlayer25.muscleEvent
+        _muscleEvent553:FireServer("rep")
+        local _muscleEvent556 = _LocalPlayer25.muscleEvent
+        _muscleEvent556:FireServer("rep")
+        local _muscleEvent559 = _LocalPlayer25.muscleEvent
+        _muscleEvent559:FireServer("rep")
+        local _muscleEvent562 = _LocalPlayer25.muscleEvent
+        _muscleEvent562:FireServer("rep")
+        local _muscleEvent565 = _LocalPlayer25.muscleEvent
+        _muscleEvent565:FireServer("rep")
+        local _muscleEvent568 = _LocalPlayer25.muscleEvent
+        _muscleEvent568:FireServer("rep")
+        local _muscleEvent571 = _LocalPlayer25.muscleEvent
+        _muscleEvent571:FireServer("rep")
+        local _muscleEvent574 = _LocalPlayer25.muscleEvent
+        _muscleEvent574:FireServer("rep")
+        local _muscleEvent577 = _LocalPlayer25.muscleEvent
+        _muscleEvent577:FireServer("rep")
+        local _muscleEvent580 = _LocalPlayer25.muscleEvent
+        _muscleEvent580:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent587 = _LocalPlayer25.muscleEvent
+        _muscleEvent587:FireServer("rep")
+        local _muscleEvent590 = _LocalPlayer25.muscleEvent
+        _muscleEvent590:FireServer("rep")
+        local _muscleEvent593 = _LocalPlayer25.muscleEvent
+        _muscleEvent593:FireServer("rep")
+        local _muscleEvent596 = _LocalPlayer25.muscleEvent
+        _muscleEvent596:FireServer("rep")
+        local _muscleEvent599 = _LocalPlayer25.muscleEvent
+        _muscleEvent599:FireServer("rep")
+        local _muscleEvent602 = _LocalPlayer25.muscleEvent
+        _muscleEvent602:FireServer("rep")
+        local _muscleEvent605 = _LocalPlayer25.muscleEvent
+        _muscleEvent605:FireServer("rep")
+        local _muscleEvent608 = _LocalPlayer25.muscleEvent
+        _muscleEvent608:FireServer("rep")
+        local _muscleEvent611 = _LocalPlayer25.muscleEvent
+        _muscleEvent611:FireServer("rep")
+        local _muscleEvent614 = _LocalPlayer25.muscleEvent
+        _muscleEvent614:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent621 = _LocalPlayer25.muscleEvent
+        _muscleEvent621:FireServer("rep")
+        local _muscleEvent624 = _LocalPlayer25.muscleEvent
+        _muscleEvent624:FireServer("rep")
+        local _muscleEvent627 = _LocalPlayer25.muscleEvent
+        _muscleEvent627:FireServer("rep")
+        local _muscleEvent630 = _LocalPlayer25.muscleEvent
+        _muscleEvent630:FireServer("rep")
+        local _muscleEvent633 = _LocalPlayer25.muscleEvent
+        _muscleEvent633:FireServer("rep")
+        local _muscleEvent636 = _LocalPlayer25.muscleEvent
+        _muscleEvent636:FireServer("rep")
+        local _muscleEvent639 = _LocalPlayer25.muscleEvent
+        _muscleEvent639:FireServer("rep")
+        local _muscleEvent642 = _LocalPlayer25.muscleEvent
+        _muscleEvent642:FireServer("rep")
+        local _muscleEvent645 = _LocalPlayer25.muscleEvent
+        _muscleEvent645:FireServer("rep")
+        local _muscleEvent648 = _LocalPlayer25.muscleEvent
+        _muscleEvent648:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent655 = _LocalPlayer25.muscleEvent
+        _muscleEvent655:FireServer("rep")
+        local _muscleEvent658 = _LocalPlayer25.muscleEvent
+        _muscleEvent658:FireServer("rep")
+        local _muscleEvent661 = _LocalPlayer25.muscleEvent
+        _muscleEvent661:FireServer("rep")
+        local _muscleEvent664 = _LocalPlayer25.muscleEvent
+        _muscleEvent664:FireServer("rep")
+        local _muscleEvent667 = _LocalPlayer25.muscleEvent
+        _muscleEvent667:FireServer("rep")
+        local _muscleEvent670 = _LocalPlayer25.muscleEvent
+        _muscleEvent670:FireServer("rep")
+        local _muscleEvent673 = _LocalPlayer25.muscleEvent
+        _muscleEvent673:FireServer("rep")
+        local _muscleEvent676 = _LocalPlayer25.muscleEvent
+        _muscleEvent676:FireServer("rep")
+        local _muscleEvent679 = _LocalPlayer25.muscleEvent
+        _muscleEvent679:FireServer("rep")
+        local _muscleEvent682 = _LocalPlayer25.muscleEvent
+        _muscleEvent682:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent689 = _LocalPlayer25.muscleEvent
+        _muscleEvent689:FireServer("rep")
+        local _muscleEvent692 = _LocalPlayer25.muscleEvent
+        _muscleEvent692:FireServer("rep")
+        local _muscleEvent695 = _LocalPlayer25.muscleEvent
+        _muscleEvent695:FireServer("rep")
+        local _muscleEvent698 = _LocalPlayer25.muscleEvent
+        _muscleEvent698:FireServer("rep")
+        local _muscleEvent701 = _LocalPlayer25.muscleEvent
+        _muscleEvent701:FireServer("rep")
+        local _muscleEvent704 = _LocalPlayer25.muscleEvent
+        _muscleEvent704:FireServer("rep")
+        local _muscleEvent707 = _LocalPlayer25.muscleEvent
+        _muscleEvent707:FireServer("rep")
+        local _muscleEvent710 = _LocalPlayer25.muscleEvent
+        _muscleEvent710:FireServer("rep")
+        local _muscleEvent713 = _LocalPlayer25.muscleEvent
+        _muscleEvent713:FireServer("rep")
+        local _muscleEvent716 = _LocalPlayer25.muscleEvent
+        _muscleEvent716:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent723 = _LocalPlayer25.muscleEvent
+        _muscleEvent723:FireServer("rep")
+        local _muscleEvent726 = _LocalPlayer25.muscleEvent
+        _muscleEvent726:FireServer("rep")
+        local _muscleEvent729 = _LocalPlayer25.muscleEvent
+        _muscleEvent729:FireServer("rep")
+        local _muscleEvent732 = _LocalPlayer25.muscleEvent
+        _muscleEvent732:FireServer("rep")
+        local _muscleEvent735 = _LocalPlayer25.muscleEvent
+        _muscleEvent735:FireServer("rep")
+        local _muscleEvent738 = _LocalPlayer25.muscleEvent
+        _muscleEvent738:FireServer("rep")
+        local _muscleEvent741 = _LocalPlayer25.muscleEvent
+        _muscleEvent741:FireServer("rep")
+        local _muscleEvent744 = _LocalPlayer25.muscleEvent
+        _muscleEvent744:FireServer("rep")
+        local _muscleEvent747 = _LocalPlayer25.muscleEvent
+        _muscleEvent747:FireServer("rep")
+        local _muscleEvent750 = _LocalPlayer25.muscleEvent
+        _muscleEvent750:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent757 = _LocalPlayer25.muscleEvent
+        _muscleEvent757:FireServer("rep")
+        local _muscleEvent760 = _LocalPlayer25.muscleEvent
+        _muscleEvent760:FireServer("rep")
+        local _muscleEvent763 = _LocalPlayer25.muscleEvent
+        _muscleEvent763:FireServer("rep")
+        local _muscleEvent766 = _LocalPlayer25.muscleEvent
+        _muscleEvent766:FireServer("rep")
+        local _muscleEvent769 = _LocalPlayer25.muscleEvent
+        _muscleEvent769:FireServer("rep")
+        local _muscleEvent772 = _LocalPlayer25.muscleEvent
+        _muscleEvent772:FireServer("rep")
+        local _muscleEvent775 = _LocalPlayer25.muscleEvent
+        _muscleEvent775:FireServer("rep")
+        local _muscleEvent778 = _LocalPlayer25.muscleEvent
+        _muscleEvent778:FireServer("rep")
+        local _muscleEvent781 = _LocalPlayer25.muscleEvent
+        _muscleEvent781:FireServer("rep")
+        local _muscleEvent784 = _LocalPlayer25.muscleEvent
+        _muscleEvent784:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent791 = _LocalPlayer25.muscleEvent
+        _muscleEvent791:FireServer("rep")
+        local _muscleEvent794 = _LocalPlayer25.muscleEvent
+        _muscleEvent794:FireServer("rep")
+        local _muscleEvent797 = _LocalPlayer25.muscleEvent
+        _muscleEvent797:FireServer("rep")
+        local _muscleEvent800 = _LocalPlayer25.muscleEvent
+        _muscleEvent800:FireServer("rep")
+        local _muscleEvent803 = _LocalPlayer25.muscleEvent
+        _muscleEvent803:FireServer("rep")
+        local _muscleEvent806 = _LocalPlayer25.muscleEvent
+        _muscleEvent806:FireServer("rep")
+        local _muscleEvent809 = _LocalPlayer25.muscleEvent
+        _muscleEvent809:FireServer("rep")
+        local _muscleEvent812 = _LocalPlayer25.muscleEvent
+        _muscleEvent812:FireServer("rep")
+        local _muscleEvent815 = _LocalPlayer25.muscleEvent
+        _muscleEvent815:FireServer("rep")
+        local _muscleEvent818 = _LocalPlayer25.muscleEvent
+        _muscleEvent818:FireServer("rep")
+        task.wait()
+        local _ = _LocalPlayer25.leaderstats.Strength.Value < _40
+        local _muscleEvent825 = _LocalPlayer25.muscleEvent
+        _muscleEvent825:FireServer("rep")
+        local _muscleEvent828 = _LocalPlayer25.muscleEvent
+        _muscleEvent828:FireServer("rep")
+        local _muscleEvent831 = _LocalPlayer25.muscleEvent
+        _muscleEvent831:FireServer("rep")
+        local _muscleEvent834 = _LocalPlayer25.muscleEvent
+        _muscleEvent834:FireServer("rep")
+        local _muscleEvent837 = _LocalPlayer25.muscleEvent
+        _muscleEvent837:FireServer("rep")
+        local _muscleEvent840 = _LocalPlayer25.muscleEvent
+        _muscleEvent840:FireServer("rep")
+        local _ = _LocalPlayer25.muscleEvent.FireServer
+        error(nil, "internal 346: <25ms: infinitelooperror>")
+    end)
+end)
+_call13:AddSwitch("Lock Position (Enable After Fast Rebirth)", function(_848, _848_2, _848_3)
+    fenv.lockPosition = _848
+    local _Character851 = game.Players.LocalPlayer.Character
+    local _call853 = _Character851:FindFirstChild("Humanoid")
+    local _call855 = _Character851:FindFirstChild("HumanoidRootPart")
+    local _Position856 = _call855.Position
+    fenv.savedPosition = _Position856
+    _call853.WalkSpeed = 0
+    task.spawn(function(_859, _859_2, _859_3)
+        local _ = (_call855.Position - _Position856).magnitude
+        error(nil, "line 1: attempt to compare number < table")
+    end)
+end)
+_call13:AddSwitch("Fast Strength", function(_865, _865_2, _865_3)
+    genv.isGrinding = _865
+    task.spawn(function(_868, _868_2, _868_3)
+        local _ = genv[nil]
+        local _muscleEvent873 = game:GetService("Players").LocalPlayer.muscleEvent
+        _muscleEvent873:FireServer("rep")
+        task.wait(0.01)
+        local _ = genv[nil]
+        local _muscleEvent880 = game:GetService("Players").LocalPlayer.muscleEvent
+        _muscleEvent880:FireServer("rep")
+        task.wait(0.01)
+        local _ = genv[nil]
+        local _muscleEvent887 = game:GetService("Players").LocalPlayer.muscleEvent
+        _muscleEvent887:FireServer("rep")
+        task.wait(0.01)
+        local _ = genv[nil]
+        local _muscleEvent894 = game:GetService("Players").LocalPlayer.muscleEvent
+        _muscleEvent894:FireServer("rep")
+        task.wait(0.01)
+        local _ = genv[nil]
+        local _muscleEvent901 = game:GetService("Players").LocalPlayer.muscleEvent
+        _muscleEvent901:FireServer("rep")
+        task.wait(0.01)
+        local _ = genv[nil]
+        local _ = game:GetService("Players").LocalPlayer
+        error(nil, "internal 346: <25ms: infinitelooperror>")
+    end)
+    error(nil, "internal 346: <25ms: infinitelooperror>")
+end)
+error(nil, "internal 346: <25ms: infinitelooperror>")
